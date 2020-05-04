@@ -1,0 +1,9 @@
+E:\C\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+E:\C\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+E:\C\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+E:\C\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csprojAssemblyReference.cache
+E:\C\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+E:\C\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+E:\C\QuadraticEquation\QuadraticEquation\bin\Debug\Discriminant_dll.dll
+E:\C\QuadraticEquation\QuadraticEquation\bin\Debug\Discriminant_dll.pdb
+E:\C\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CopyComplete

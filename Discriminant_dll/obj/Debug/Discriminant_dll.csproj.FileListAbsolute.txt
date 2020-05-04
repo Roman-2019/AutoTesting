@@ -1,0 +1,5 @@
+E:\C\QuadraticEquation\Discriminant_dll\bin\Debug\Discriminant_dll.dll
+E:\C\QuadraticEquation\Discriminant_dll\bin\Debug\Discriminant_dll.pdb
+E:\C\QuadraticEquation\Discriminant_dll\obj\Debug\Discriminant_dll.dll
+E:\C\QuadraticEquation\Discriminant_dll\obj\Debug\Discriminant_dll.pdb
+E:\C\QuadraticEquation\Discriminant_dll\obj\Debug\Discriminant_dll.csprojAssemblyReference.cache

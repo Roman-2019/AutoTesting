@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Эльдорадо\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Эльдорадо\\.nuget\\packages"
+    ]
+  }
+}
